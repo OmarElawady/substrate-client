@@ -1,4 +1,4 @@
-module github.com/threefoldtech/substrate-client
+module github.com/threefoldtech/substrate-client/v3
 
 go 1.17
 
